@@ -25,11 +25,11 @@ export const AddCategory = ({ setCategories }) => {
             <input
                 type="text"
                 value= { inputValue }
-                placeholder="Busqueda"
+                placeholder="Search"
                 onChange= { handleInputChange }
                 className="
                 rounded-full border-4 border-black w-2/4 h-10
-                focus:ring-2 focus:ring-red-500 focus:border-transparent
+                focus:ring-4 focus:ring-purple-600 focus:outline-none focus:border-opacity-0
                 text-center text-2xl
                 sm:text-lg sm:w-11/12"
             />
