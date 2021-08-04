@@ -15,7 +15,7 @@ export const GifGridItem = ( {id, title, url} ) => {
             <img 
                 src={ url } alt={ title }
                 className="h-screen max-h-96 w-1/4 max-w-md min-w-full rounded-2xl
-                sm:min-w-0 sm:max-h-80
+                sm:w-1/4
                 md:h-72
                 lg:h-72" 
                 />
