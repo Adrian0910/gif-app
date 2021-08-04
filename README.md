@@ -1,8 +1,8 @@
 # GifApp with React
-How many times you want to find the perfect gif and you don't know a beauty page to do it? 
+How many times you want to find the perfect gif and you don't know a nice page? 
 ... Don't worry, here's the GifApp!
 
-**Find different Gifs** about anything you want, just find it and there is!
+**Find different Gifs** about anything you want, just type it and here it is!
 The search is limit for 12 cards.
 
 This project is a basic example about how **to consume an API** in React. I used GIPHY to do it, you can find it here: 
